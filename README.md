@@ -1,2 +1,2 @@
 # Site
-1_ Run Code `http://localhost:5173/`
+1. Run Code `http://localhost:5173/`
