@@ -39,12 +39,12 @@
 }
 
 #pr {
-  color: black;
+  color: orange;
   font-size: 80px;
   font-style: oblique;
   position: absolute;
-  top: 5%;
-  left: 34%;
+  top: 1%;
+  left: 31%;
 }
 
 .header {
