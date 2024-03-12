@@ -40,7 +40,7 @@
 
 #pr {
   color: orange;
-  font-size: 80px;
+  font-size: 76px;
   font-style: oblique;
   position: absolute;
   top: 1%;
@@ -60,3 +60,4 @@
   background-position: center;
   background-blend-mode: overlay;
 }
+
